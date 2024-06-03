@@ -109,7 +109,7 @@
     "react-spring": "^9.0.0",
     "react-window": "^1.8.6",
     "reselect": "^4.0.0",
-    "semver": "^7.5.2",
+    "semver": "^7.5.3",
     "three": "0.139.2",
     "tinycolor2": "^1.4.2",
     "window-function": "^2.1.0",
