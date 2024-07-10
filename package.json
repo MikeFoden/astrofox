@@ -138,7 +138,7 @@
     "electron": "30.0.8",
     "electron-builder": "^24.13.3",
     "electron-notarize": "^1.2.2",
-    "electron-updater": "^5.0.1",
+    "electron-updater": "^6.2.1",
     "eslint": "^8.0.1",
     "eslint-config-airbnb": "^18.2.1",
     "eslint-config-prettier": "^8.1.0",
