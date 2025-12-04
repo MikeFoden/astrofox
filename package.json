@@ -97,7 +97,7 @@
     "del": "^7.1.0",
     "electron-localshortcut": "^3.2.1",
     "fourier-transform": "^1.1.2",
-    "glob": "^10.0.0",
+    "glob": "^11.1.0",
     "id3js": "2.1.1",
     "immer": "^10.1.1",
     "lodash": "^4.17.21",
